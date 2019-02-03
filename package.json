@@ -21,7 +21,7 @@
     "busboy": "^0.2.14",
     "gridfs-stream": "^1.1.1",
     "lodash": "^4.17.4",
-    "mongodb": "^2.2.31",
+    "mongodb": "^3.1.10",
     "zip-stream": "^1.2.0"
   }
 }
